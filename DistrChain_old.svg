@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 32 32"
+     width="32" height="32">
+
+  <g transform="translate(4.5 1.5)">
+    <polygon fill="none" stroke="#6a9933" stroke-width="1.91"
+      stroke-linejoin="round"
+      points="12.96 22.5 1.5 22.5 1.5 5.32 7.23 1.5 12.96 5.32 12.96 22.5"/>
+
+    <rect fill="none" stroke="#6a9933" stroke-width="1.91"
+      x="6.27" y="19.64" width="1.91" height="2.86"/>
+
+    <polygon fill="none" stroke="#6a9933" stroke-width="1.91"
+      stroke-linejoin="round"
+      points="22.5 22.5 12.96 22.5 12.96 9.14 17.73 6.27 22.5 9.14 22.5 22.5"/>
+  </g>
+</svg>
